@@ -1,0 +1,136 @@
+{
+  "appid": "",
+  "group": "",
+  "title": null,
+  "webscene": "default",
+  "websceneTransparentBackground": false,
+  "websceneBackgroundColor": "#fff",
+  "applySharedTheme": true,
+  "appProxies": null,
+  "customCSS": null,
+  "customHeader": false,
+  "customHeaderHTML": null,
+  "customHeaderPositionedAtBottom": false,
+  "extentSelectorConfig": null,
+  "extentSelector": false,
+  "mapRotation": false,
+  "googleAnalytics": false,
+  "googleAnalyticsKey": null,
+  "googleAnalyticsConsent": false,
+  "googleAnalyticsConsentMsg": null,
+  "theme": "light",
+  "disableScroll": false,
+  "slides": false,
+  "slidesPosition": "top-right",
+  "basemapToggle": false,
+  "basemapTogglePosition": "bottom-left",
+  "basemapSelector": "streets",
+  "fullScreen": false,
+  "fullScreenPosition": "bottom-right",
+  "home": false,
+  "homePosition": "top-left",
+  "layerList": false,
+  "layerListPosition": "bottom-right",
+  "layerListOpenAtStart": false,
+  "layerListIncludeTable": false,
+  "legend": false,
+  "legendPosition": "top-right",
+  "legendOpenAtStart": false,
+  "legendConfig": {
+    "style": {
+      "type": "card",
+      "layout": "auto"
+    }
+  },
+  "measure": false,
+  "measurePosition": "top-right",
+  "measureOpenAtStart": false,
+  "mapZoom": true,
+  "mapZoomPosition": "top-left",
+  "insetOverviewMap": false,
+  "insetOverviewMapPosition": "bottom-left",
+  "insetOverviewMapMarkerStyle": "marker",
+  "insetOverviewMapBasemap": "topo",
+  "insetOverviewCompareMap": null,
+  "insetOverviewMapOpenAtStart": false,
+  "insetOverviewExpandButton": true,
+  "insetOverviewSplitDirection": "horizontal",
+  "daylight": false,
+  "daylightPosition": "bottom-right",
+  "daylightOpenAtStart": false,
+  "daylightDateOrSeason": "date",
+  "daylightDate": null,
+  "lineOfSight": false,
+  "lineOfSightPosition": "top-right",
+  "lineOfSightOpenAtStart": false,
+  "slice": false,
+  "slicePosition": "bottom-left",
+  "sliceOpenAtStart": false,
+  "locationColor": "#333",
+
+  "popupHover": false,
+  "popupHoverFixed": false,
+  "popupHoverPosition": "bottom-right",
+  "screenshot": false,
+  "screenshotPosition": "top-left",
+  "search": false,
+  "searchOpenAtStart": false,
+  "searchConfiguration": null,
+  "searchPosition": "top-right",
+  "splash": true,
+  "splashContent": "Splash content",
+  "splashTitle": "Splash title",
+  "splashButtonText": "Okay",
+  "splashButtonPosition": "top-right",
+  "splashFullScreen": true,
+  "info": false,
+  "detailsOpenAtStart": false,
+  "share": false,
+  "sharePosition": "top-right",
+  "portalUrl": "https://www.arcgis.com",
+  "oauthappid": null,
+  "proxyUrl": "",
+  "units": "",
+  "helperServices": {
+    "geometry": {
+      "url": null
+    },
+    "printTask": {
+      "url": null
+    },
+    "elevationSync": {
+      "url": null
+    },
+    "geocode": [{
+      "url": null
+    }]
+  },
+  "telemetry": {
+    "name": "3dviewer",
+    "version": "1.0",
+    "prod": {
+      "amazon": {
+        "userPoolID": "us-east-1:8c41b2dc-7563-403d-ba64-673b103debce",
+        "app": {
+          "id": "977e9b0602bb446d8f2fa5a50489d053"
+        }
+      }
+    },
+    "dev": {
+      "amazon": {
+        "userPoolID": "us-east-1:7345bcf2-bffa-4849-a379-a83178f63eef",
+        "app": {
+          "id": "eadf587070d04c86b747a938cc655e76"
+        }
+      }
+    },
+    "qa": {
+      "amazon": {
+        "userPoolID": "us-east-1:7345bcf2-bffa-4849-a379-a83178f63eef",
+        "app": {
+          "id": "74ec952cdae444389057fbae08043476"
+        }
+      }
+    }
+  }
+}
